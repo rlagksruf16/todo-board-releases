@@ -1,11 +1,11 @@
 {
-  "version": "0.1.5",
-  "notes": "빈 공간 드래그로 창 이동, 창 크기 기억, 기본 창 크기 축소",
-  "pub_date": "2026-09-20T04:54:19Z",
+  "version": "0.1.6",
+  "notes": "업데이트 확인 다이얼로그를 native confirm() 대신 인앱 모달로 교체 (WebKit이 await 이후의 confirm()을 무시하는 문제 수정)",
+  "pub_date": "2026-09-20T04:59:56Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjRiRlVZV1lnQ2hTN1EycVdlY3laOEE0ckREaGYyaVZqMXQ3U2F0VG8zWEJabW9ZVjBNTlVNYVZtODF1UW1qNDhUbXV2SmZBalVhZUNzRjJ3WWRHNlZid0tzUnJQMVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODgwMDU5CWZpbGU6VG9kbyBCb2FyZC5hcHAudGFyLmd6CjBCVk55QWl5b04yaFhpNC9tSjdjaElidjh2Zko3a25US21RN3FSMjYzQlIwZStrNGlQOEo4RnlSWVQ1WDlLV1AzNnZxVGd0YTVvalBXblV0ZjNZUEFRPT0K",
-      "url": "https://github.com/rlagksruf16/todo-board-releases/releases/download/v0.1.5/Todo.Board.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjRiRlVZV1lnQ25EYmJtK1c0dVV5RE03RlRSS0FHRkpZRVpoS0VXOENXdEdpQmlWcVhsWWhiTGQvbnliWStOVm1SakhZL1RKUW9CNWh3WHFrclJqaExPd01CcEYreHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODgwMzk2CWZpbGU6VG9kbyBCb2FyZC5hcHAudGFyLmd6CjNuK2x4Sk03bjQzOXhFQUd4MU9paWJVdjNMS2J4ZEcvSUN6WHlNMUdOSzBDekhoNzg3blV3UFhwY2lYUTFuSHFiVUdzUzlZaDhoenJ0RkV2anJOVENRPT0K",
+      "url": "https://github.com/rlagksruf16/todo-board-releases/releases/download/v0.1.6/Todo.Board.app.tar.gz"
     }
   }
 }
