@@ -1,11 +1,11 @@
 {
-  "version": "0.1.14",
-  "notes": "네이티브 타이틀바로 복귀(두 줄 간격 최소화), 업데이트 배지(NEW) 및 메뉴에 현재 버전 표시",
-  "pub_date": "2026-09-20T14:08:53Z",
+  "version": "0.1.15",
+  "notes": "날짜 이동/복사(날짜 바꾸기, 오늘/내일 하기, 또 하기 계열)로 도착한 todo는 항상 해당 카테고리의 미완료 목록 맨 아래에 위치",
+  "pub_date": "2026-09-20T14:50:11Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjRiRlVZV1lnQ3BURjhJN0xZVEMyYkZVR1R3QVh0Y2xPSGFtakdMcWNBRitvRk1rWHdqNG5QNGwzNTdheTNqRitIUGtlZzBMWjY3VHB4bFM4aW5RWSt1WUZlVWJPdncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTEzMzMzCWZpbGU6VG9kbyBCb2FyZC5hcHAudGFyLmd6Clk5Wm9qM2ZVbURqR1lGd0dFN3ZjWmtzT1cwYnYxSE05SnJOTmxVM09YTnA3QWVROHBVdVJ0L25ZeE9nNkMxaGo3SjVDb3A1aG51MWF2VHZyQURacER3PT0K",
-      "url": "https://github.com/rlagksruf16/todo-board-releases/releases/download/v0.1.14/Todo.Board.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjRiRlVZV1lnQ29US3BVaEp2K0RKWlRFNXVMWkV4ZUM2UHFkS3Q3RDRVbUl4UmU3VmlUQm40MkVJUzdhY21ySi92ZXVlQzBibC96ditKS0MxNU5vaVlEVDVGTTVrc1EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTE1ODExCWZpbGU6VG9kbyBCb2FyZC5hcHAudGFyLmd6ClhGL3dYazhtL1ZyMUlrTTJGbEJuMHA1TDcyUDNCazlCeWZaN0Jub2U1TjIzWXRXc3BPbXcvU0hXeWlWVXJ5SHZiVWtaTzJnWUJGY0RpaDYvbWpJWkJ3PT0K",
+      "url": "https://github.com/rlagksruf16/todo-board-releases/releases/download/v0.1.15/Todo.Board.app.tar.gz"
     }
   }
 }
