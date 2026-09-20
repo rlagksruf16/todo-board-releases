@@ -1,11 +1,11 @@
 {
-  "version": "0.1.4",
-  "notes": "디버깅용 devtools 활성화 (업데이트 확인 안 되는 문제 진단)",
-  "pub_date": "2026-09-20T04:45:25Z",
+  "version": "0.1.5",
+  "notes": "빈 공간 드래그로 창 이동, 창 크기 기억, 기본 창 크기 축소",
+  "pub_date": "2026-09-20T04:54:19Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjRiRlVZV1lnQ2g4ZUpVdDJERCtCTnNDSUp1eXozUmZ2ODJFZmNDS2NNQ3o2a0tJWXozRFVGbk5NTEFDNFFGQjZEUWxXblZNellGclFQYkg4N3VBUDl2YVl3dWR3ZVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODc5NTI1CWZpbGU6VG9kbyBCb2FyZC5hcHAudGFyLmd6CnBGV3ovZ050SlJVNWFyZGNkSXZ0QVJyeDVCL2hiRmtBLzdETzFHV0NXQVJTU0x1MWNWOU81MG1RTmhwZnY0Ryt2T1NqNmExc3BXTmpOWTNZeWtCZEJBPT0K",
-      "url": "https://github.com/rlagksruf16/todo-board-releases/releases/download/v0.1.4/Todo.Board.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjRiRlVZV1lnQ2hTN1EycVdlY3laOEE0ckREaGYyaVZqMXQ3U2F0VG8zWEJabW9ZVjBNTlVNYVZtODF1UW1qNDhUbXV2SmZBalVhZUNzRjJ3WWRHNlZid0tzUnJQMVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODgwMDU5CWZpbGU6VG9kbyBCb2FyZC5hcHAudGFyLmd6CjBCVk55QWl5b04yaFhpNC9tSjdjaElidjh2Zko3a25US21RN3FSMjYzQlIwZStrNGlQOEo4RnlSWVQ1WDlLV1AzNnZxVGd0YTVvalBXblV0ZjNZUEFRPT0K",
+      "url": "https://github.com/rlagksruf16/todo-board-releases/releases/download/v0.1.5/Todo.Board.app.tar.gz"
     }
   }
 }
