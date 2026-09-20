@@ -1,11 +1,11 @@
 {
-  "version": "0.1.9",
-  "notes": "우측 여백 32→20px 축소 및 창 너비 보정, 헤더 아이콘(햄버거 포함) 확대",
-  "pub_date": "2026-09-20T05:15:14Z",
+  "version": "0.1.10",
+  "notes": "완료한 todo는 카테고리 하단에 고정, 새 todo는 완료 목록 바로 위에 쌓임",
+  "pub_date": "2026-09-20T09:14:09Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjRiRlVZV1lnQ3MyTVh4Y2hFVXdZN1RZTHNBSG1YeU1oeGJ4TVM1TVNUeEFmNG1HMVVOcFpVak9hd0U0Mk5mVFZZbnIrNjh6bWUzMWpzQXBWcW1oTjUxV1dWcGhya2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODgxMzE0CWZpbGU6VG9kbyBCb2FyZC5hcHAudGFyLmd6CnBMQmRyckF6UXljUS9ZazFaRUVpbm4zQUxFNGZ4U0RISE0yTTd3U3ZOWmRJNmllVE9JSDM2S1Z6Y2tuMkV4SWxVZWJTSGF1cjNiSGtqNm5uWHA4N0JnPT0K",
-      "url": "https://github.com/rlagksruf16/todo-board-releases/releases/download/v0.1.9/Todo.Board.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjRiRlVZV1lnQ2o1TXVseUsxZnA3TW5vN0Eyd3dGb1hKdzRjYWdWUkQxZmNuWms5eTFtTm1RY2tRbDFSSTNEalFicnBIdE54QmFDK0lEd2U0SmFqRUcxbWp5NGNaT0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODk1NjQ5CWZpbGU6VG9kbyBCb2FyZC5hcHAudGFyLmd6CldXQkxGOHJJakQyK1dTVW1VcDNHS0RKbWFjREhJYkdrSk5MMTEzUG9ySzY3WHZwYndUM1JVNkVwckNKM2dqTkx0VjRjUG1nSDd1VGtPL0JWVFBpbkFnPT0K",
+      "url": "https://github.com/rlagksruf16/todo-board-releases/releases/download/v0.1.10/Todo.Board.app.tar.gz"
     }
   }
 }
