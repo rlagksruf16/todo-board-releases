@@ -1,11 +1,11 @@
 {
-  "version": "0.1.11",
-  "notes": "빨간 버튼(닫기)이 종료 대신 숨기기로 동작, Dock 아이콘 클릭 시 다시 표시 (Notion/Chrome 방식)",
-  "pub_date": "2026-09-20T13:52:08Z",
+  "version": "0.1.12",
+  "notes": "타이틀바 오버레이/숨김 해제, 실제 macOS 타이틀바 복원 (기존 커스텀 상단 바의 drag/no-drag CSS는 유지)",
+  "pub_date": "2026-09-20T13:57:17Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjRiRlVZV1lnQ3NJT1IzYXY4NjFsTE9NQ0ptWFQ4SmQ0bCtFR08wL2lEVXM2a3k1TGY5ZVZnUWtCcnVSUEM0eXN6aDFKWk81SE5ZdUNsVUV2ckZBcmdVb0ZDZHZFd2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTEyMzI4CWZpbGU6VG9kbyBCb2FyZC5hcHAudGFyLmd6CllQWTIyQkx1enpDc0t4YXBDSFBXTXBqNSsyUS9ybFlZVnZ5OXVEMW9iRzZGUUNhZzR1alFWbDQ1ek9BT3ZXWkV3VE5zN2RESjlPREtiT2E1RUVYNERnPT0K",
-      "url": "https://github.com/rlagksruf16/todo-board-releases/releases/download/v0.1.11/Todo.Board.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjRiRlVZV1lnQ2pLay90aXpGYU5Nc0svSXA2RHErdmNpVVRVZm4yRm1lSGhlOTMvV1VTNFREeThuVENHbkZqMzZRMzJXOTlPbmlDbElKR2ZnM0lQWExHUUwvTnhSOHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTEyNjM3CWZpbGU6VG9kbyBCb2FyZC5hcHAudGFyLmd6CmFTM0EzNzdLKzlFVWVFb003bURLMXB4Tm5nQmRHangzdzV2M1hNZ3huVnNZeWdRQ0YzZUdzS3puY3JFaWJvWmJHeThueDE2R0NVVlY0V2JiMTNoRUFRPT0K",
+      "url": "https://github.com/rlagksruf16/todo-board-releases/releases/download/v0.1.12/Todo.Board.app.tar.gz"
     }
   }
 }
