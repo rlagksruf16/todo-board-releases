@@ -1,11 +1,11 @@
 {
-  "version": "0.1.3",
-  "notes": "업데이트 확인 피드백을 Toast로 변경(native alert 대신), 진단용 콘솔 로그 추가",
-  "pub_date": "2026-09-20T04:41:38Z",
+  "version": "0.1.4",
+  "notes": "디버깅용 devtools 활성화 (업데이트 확인 안 되는 문제 진단)",
+  "pub_date": "2026-09-20T04:45:25Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjRiRlVZV1lnQ2tsRDExdHlWek9uSHBzUG16MzRLWDZyNmluTlhNcm5xRXRkeWIyMFc1cHNtUWRPRmxRM0drbHRoSnAwV2FuWU40cURGZE4weUg3b3BWKzIvLzFRTlFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODc5Mjk4CWZpbGU6VG9kbyBCb2FyZC5hcHAudGFyLmd6CnRlYW5GWTJ4YmlJb0RxcThrZXpaS1RzMFh2UzJmZVZUL1MyVUZIMzRDbTAzdFRGdTl1aHkyL0tPdUVFSnpPUHQxWjdOVlN6TEY3ZjBYNUIrcG9Wc0RBPT0K",
-      "url": "https://github.com/rlagksruf16/todo-board-releases/releases/download/v0.1.3/Todo.Board.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjRiRlVZV1lnQ2g4ZUpVdDJERCtCTnNDSUp1eXozUmZ2ODJFZmNDS2NNQ3o2a0tJWXozRFVGbk5NTEFDNFFGQjZEUWxXblZNellGclFQYkg4N3VBUDl2YVl3dWR3ZVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODc5NTI1CWZpbGU6VG9kbyBCb2FyZC5hcHAudGFyLmd6CnBGV3ovZ050SlJVNWFyZGNkSXZ0QVJyeDVCL2hiRmtBLzdETzFHV0NXQVJTU0x1MWNWOU81MG1RTmhwZnY0Ryt2T1NqNmExc3BXTmpOWTNZeWtCZEJBPT0K",
+      "url": "https://github.com/rlagksruf16/todo-board-releases/releases/download/v0.1.4/Todo.Board.app.tar.gz"
     }
   }
 }
