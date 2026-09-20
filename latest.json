@@ -1,11 +1,11 @@
 {
-  "version": "0.1.0",
-  "notes": "자동 업데이트, 실시간 동기화, Todo Board 리브랜딩",
-  "pub_date": "2026-09-20T04:08:08Z",
+  "version": "0.1.1",
+  "notes": "기본 창 크기 확대, 삭제 실시간 동기화 안내(DB 설정 필요)",
+  "pub_date": "2026-09-20T04:29:16Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjRiRlVZV1lnQ2tSWThRN2lNM0Vxbnc2VStQdWIrMi9Gbmg5RFpsdzdnbE1SRHZZTk14QUhvQXowRHk0R21EZm5WbHVHbkJJOGQreGZmYzdJL0NLenlXUkpGVDdTU1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODc3Mjg4CWZpbGU6VG9kbyBCb2FyZC5hcHAudGFyLmd6CjRtU3NPNzVycEhpVG1acW1WdlBIaVZpbUxvQUVKei9KYitJRFBUS0lhRW16TWxiQ1AzS09BWDBMUVlSMTM2YktSbkVTL3BYR0RRRUQrSldkUFVITkJ3PT0K",
-      "url": "https://github.com/rlagksruf16/todo-board-releases/releases/download/v0.1.0/Todo.Board.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjRiRlVZV1lnQ2hnRFJNTStab3dOUU5RQlgraWNTRXkrQXc3aWV0TERDWFpOWm1Mc3AvYVU2UGtuSGdtRzNXbDVydjFuVFdRZTUrNkNoUG9IeWFuZnVsWnBnNjB4MVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODc4NTU2CWZpbGU6VG9kbyBCb2FyZC5hcHAudGFyLmd6ClpMUUFJb09ONEZBcXhDY0tDd2h4ZDJScEhOUE04SnByRFFzcUR6SEphNWs0VGNVaExnSVBQbEFWVW1lUkk5R0dJT1NpbFMzNjV6MERjS0QwUjQyUUFnPT0K",
+      "url": "https://github.com/rlagksruf16/todo-board-releases/releases/download/v0.1.1/Todo.Board.app.tar.gz"
     }
   }
 }
