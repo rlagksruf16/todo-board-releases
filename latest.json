@@ -5,7 +5,7 @@
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjRiRlVZV1lnQ2tSWThRN2lNM0Vxbnc2VStQdWIrMi9Gbmg5RFpsdzdnbE1SRHZZTk14QUhvQXowRHk0R21EZm5WbHVHbkJJOGQreGZmYzdJL0NLenlXUkpGVDdTU1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODc3Mjg4CWZpbGU6VG9kbyBCb2FyZC5hcHAudGFyLmd6CjRtU3NPNzVycEhpVG1acW1WdlBIaVZpbUxvQUVKei9KYitJRFBUS0lhRW16TWxiQ1AzS09BWDBMUVlSMTM2YktSbkVTL3BYR0RRRUQrSldkUFVITkJ3PT0K",
-      "url": "https://github.com/rlagksruf16/todo-board-releases/releases/download/v0.1.0/Todo Board.app.tar.gz"
+      "url": "https://github.com/rlagksruf16/todo-board-releases/releases/download/v0.1.0/Todo.Board.app.tar.gz"
     }
   }
 }
