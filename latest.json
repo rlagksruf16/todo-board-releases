@@ -1,11 +1,11 @@
 {
-  "version": "0.1.13",
-  "notes": "오버레이 타이틀바로 복귀하되 dragDropEnabled:false 적용, 한 줄 헤더로 트래픽라이트와 네비게이션 아이콘 병합",
-  "pub_date": "2026-09-20T14:04:30Z",
+  "version": "0.1.14",
+  "notes": "네이티브 타이틀바로 복귀(두 줄 간격 최소화), 업데이트 배지(NEW) 및 메뉴에 현재 버전 표시",
+  "pub_date": "2026-09-20T14:08:53Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjRiRlVZV1lnQ3EzY0JjdWpONzZYR1JzaVdEWWY3Q3VRUlVCVlFrd0x1ODM3UVZWS0RscXo1d1NhdWtyL1BsVGVTQ0JJbUxuOEorZEQ5dk02Q0RUYVc1VDg2TEF5MWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTEzMDcwCWZpbGU6VG9kbyBCb2FyZC5hcHAudGFyLmd6ClREV3krUDVGVVExUExESGk5VnRrZXFxbUcyTmRsRWVJRWo0QnBPempSWElNUGxmZ3grRVFVYTBTbGZKNTh1MWdVTitaVmt5OWxxWkhHWGVpTFNtTURRPT0K",
-      "url": "https://github.com/rlagksruf16/todo-board-releases/releases/download/v0.1.13/Todo.Board.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjRiRlVZV1lnQ3BURjhJN0xZVEMyYkZVR1R3QVh0Y2xPSGFtakdMcWNBRitvRk1rWHdqNG5QNGwzNTdheTNqRitIUGtlZzBMWjY3VHB4bFM4aW5RWSt1WUZlVWJPdncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTEzMzMzCWZpbGU6VG9kbyBCb2FyZC5hcHAudGFyLmd6Clk5Wm9qM2ZVbURqR1lGd0dFN3ZjWmtzT1cwYnYxSE05SnJOTmxVM09YTnA3QWVROHBVdVJ0L25ZeE9nNkMxaGo3SjVDb3A1aG51MWF2VHZyQURacER3PT0K",
+      "url": "https://github.com/rlagksruf16/todo-board-releases/releases/download/v0.1.14/Todo.Board.app.tar.gz"
     }
   }
 }
