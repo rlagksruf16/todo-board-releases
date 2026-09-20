@@ -1,11 +1,11 @@
 {
-  "version": "0.1.6",
-  "notes": "업데이트 확인 다이얼로그를 native confirm() 대신 인앱 모달로 교체 (WebKit이 await 이후의 confirm()을 무시하는 문제 수정)",
-  "pub_date": "2026-09-20T04:59:56Z",
+  "version": "0.1.7",
+  "notes": "상단 탭바를 화면 끝까지(가장자리+트래픽라이트 영역 포함) 확장해서 드래그 이동 안정화",
+  "pub_date": "2026-09-20T05:05:42Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjRiRlVZV1lnQ25EYmJtK1c0dVV5RE03RlRSS0FHRkpZRVpoS0VXOENXdEdpQmlWcVhsWWhiTGQvbnliWStOVm1SakhZL1RKUW9CNWh3WHFrclJqaExPd01CcEYreHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODgwMzk2CWZpbGU6VG9kbyBCb2FyZC5hcHAudGFyLmd6CjNuK2x4Sk03bjQzOXhFQUd4MU9paWJVdjNMS2J4ZEcvSUN6WHlNMUdOSzBDekhoNzg3blV3UFhwY2lYUTFuSHFiVUdzUzlZaDhoenJ0RkV2anJOVENRPT0K",
-      "url": "https://github.com/rlagksruf16/todo-board-releases/releases/download/v0.1.6/Todo.Board.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjRiRlVZV1lnQ3VBZzh0a0k1bktnT0dGOGl2Z0ZPTkliWjdRT3VlMzRSdjFFT1EyR0pMVTlxWlpSL0M0VWJJMWY0dVdRWER1NkRSYkNFTDhFVWlzMmdiMjNiV3RHRkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODgwNzQyCWZpbGU6VG9kbyBCb2FyZC5hcHAudGFyLmd6CmVHVXNkQTJiL2ovc2JWaGtPQmtDY1p3b1VyQVNINkJMQ3dRdmNJM1RPVHZLMXcxcUlvU2huNjIrd01EelpuWXdCNVhsalpCaVlxcy91d3ZuVXBRdEFRPT0K",
+      "url": "https://github.com/rlagksruf16/todo-board-releases/releases/download/v0.1.7/Todo.Board.app.tar.gz"
     }
   }
 }
