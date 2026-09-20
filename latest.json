@@ -1,11 +1,11 @@
 {
-  "version": "0.1.8",
-  "notes": "탭바 드래그 재구조화: 음수 마진 대신 app-shell 패딩을 제거하고 탭바 자체를 56px 높이의 순수 전체너비 박스로 변경(overflow:hidden 간섭 제거)",
-  "pub_date": "2026-09-20T05:10:26Z",
+  "version": "0.1.9",
+  "notes": "우측 여백 32→20px 축소 및 창 너비 보정, 헤더 아이콘(햄버거 포함) 확대",
+  "pub_date": "2026-09-20T05:15:14Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjRiRlVZV1lnQ25VeEt0UnJ4ZmVDcnIrSG1aQlZxK0ZYYzYwYlVoTjBYNHVFVXV4RDFCR2I3ZGk0eWpNNUlLaVl6bXlxb21sTmFScHFtM1NybHFUcmwvR0NyVHI0RVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODgxMDI2CWZpbGU6VG9kbyBCb2FyZC5hcHAudGFyLmd6CmhHSjlveDJFNElZVGhyWmRpZjFBUGVvczU0NTBlb2pBdEczMDVUb1pCS3prOHNPc1ZzNnFMVHJCWWVoQ1RnR3dLTlhqU1c2dTVvTXlCTGl4c1g2MUJnPT0K",
-      "url": "https://github.com/rlagksruf16/todo-board-releases/releases/download/v0.1.8/Todo.Board.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjRiRlVZV1lnQ3MyTVh4Y2hFVXdZN1RZTHNBSG1YeU1oeGJ4TVM1TVNUeEFmNG1HMVVOcFpVak9hd0U0Mk5mVFZZbnIrNjh6bWUzMWpzQXBWcW1oTjUxV1dWcGhya2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODgxMzE0CWZpbGU6VG9kbyBCb2FyZC5hcHAudGFyLmd6CnBMQmRyckF6UXljUS9ZazFaRUVpbm4zQUxFNGZ4U0RISE0yTTd3U3ZOWmRJNmllVE9JSDM2S1Z6Y2tuMkV4SWxVZWJTSGF1cjNiSGtqNm5uWHA4N0JnPT0K",
+      "url": "https://github.com/rlagksruf16/todo-board-releases/releases/download/v0.1.9/Todo.Board.app.tar.gz"
     }
   }
 }
