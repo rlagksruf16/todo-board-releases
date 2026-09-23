@@ -1,11 +1,11 @@
 {
-  "version": "0.1.19",
-  "notes": "카테고리 내 todo 메모 미리보기를 1줄에서 2줄로 확장",
-  "pub_date": "2026-09-23T02:16:30Z",
+  "version": "0.1.20",
+  "notes": "todo 행 정렬 수정(체크박스/제목 상단 고정, 메모는 아래로 확장) + 메모 미리보기에 줄바꿈 반영",
+  "pub_date": "2026-09-23T02:20:47Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjRiRlVZV1lnQ3VOWVovcXVONkpqN0o2T2JZc3pQcUdGL3RLWTlNLytLRkZNMUI0bFZUdTl2dXk3bEs0T0FJak1RNTB0UmdoT2FsSk9RRi81Z3l0QlBOd1pJdkFRbGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTI5NzkwCWZpbGU6VG9kbyBCb2FyZC5hcHAudGFyLmd6Cis1aDJxdk9qK3ViQ2pyd1dUVjNXTGF4cUdzUUN2REs2RVRjakwrSFRVd0hCZXhjUW4vUUI2MlpuMzM3NjRqaE9vNENNUFF5dmdiWFFGckVIWEFYckRRPT0K",
-      "url": "https://github.com/rlagksruf16/todo-board-releases/releases/download/v0.1.19/Todo.Board.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjRiRlVZV1lnQ3NSRnplVmxQb2xuYmJta3NBcFdkeFIrUy9tM3NNK09oelBNcXUyWS9sVnptWUNqN3E3OXJqMk1hWFdsa0ZYMVVncFVoUjNTZW5nQmdPWlNWMU5qeWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTMwMDQ3CWZpbGU6VG9kbyBCb2FyZC5hcHAudGFyLmd6ClYyVUo3VUxNK2ZPS1crNDJiMFZ6WGVUR2Q2ckhDRmFYbFRXaGVhR1lnN2RKTGpQNFJpSjdsM3JXMDUyajBGampiV0RiS1Mwak9Xa0ZzbUtkZUU1VkFRPT0K",
+      "url": "https://github.com/rlagksruf16/todo-board-releases/releases/download/v0.1.20/Todo.Board.app.tar.gz"
     }
   }
 }
