@@ -1,11 +1,11 @@
 {
-  "version": "0.1.17",
-  "notes": "메모 필드에 '- ' 입력 시 불릿 자동 변환 + Enter로 목록 이어쓰기",
-  "pub_date": "2026-09-23T02:09:32Z",
+  "version": "0.1.18",
+  "notes": "⌘R로 Supabase에서 즉시 새로고침 (다른 기기 변경사항 바로 반영)",
+  "pub_date": "2026-09-23T02:12:12Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjRiRlVZV1lnQ2xMS0tnem94SjlkNVhFV2kzcFByTFJkNzRuTEZoNE5TMDQ2SEk3c2tCL1N4L2t3Q2ZFTzRjcTlLTFRKSmx1Y21maWJYakxPeFVjdGJ6dEZ3bFBlN1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTI5MzcyCWZpbGU6VG9kbyBCb2FyZC5hcHAudGFyLmd6Ckl1anozQ1ltcTc5Zk83cVBsRDdnNFVoanp2UFNPanpYQ1JUc282RGVPWVNtdTlZaFFWL2xHaGZEZ3pwMzNndXlzUGU1bEYwTG5hOGN1STkybGl3SkJnPT0K",
-      "url": "https://github.com/rlagksruf16/todo-board-releases/releases/download/v0.1.17/Todo.Board.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjRiRlVZV1lnQ295cVlSb3BjSGJSMTh1c08wSGM1VUtjOFVLOWdMRExqWFdlbTg4RVpaN21ncGdqcDBzR2k1WCt4VVVwUlNmZzBYalZ5dG5ucmkxVnlCTGZKcURCRndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTI5NTMyCWZpbGU6VG9kbyBCb2FyZC5hcHAudGFyLmd6Ck9HRHZwYW96a0hHTC83NXMxOHNPdytPeFFsUE1lSTdhTDhOMUdYU1M5ejFOZWNyaGl3bUoxN3FLUkdEU0hNV3UvZXNaMnRKWnc1Z1VuU0lpZWlhT0JRPT0K",
+      "url": "https://github.com/rlagksruf16/todo-board-releases/releases/download/v0.1.18/Todo.Board.app.tar.gz"
     }
   }
 }
