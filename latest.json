@@ -1,11 +1,11 @@
 {
-  "version": "0.1.22",
-  "notes": "메모 영역 고정 너비로 줄바꿈(가로 스크롤/오버플로우 없음), 길어지면 세로로만 확장",
-  "pub_date": "2026-09-23T04:42:09Z",
+  "version": "0.1.23",
+  "notes": "todo 제목 글자 상단 잘림 수정, right-panel 가로 스크롤 제거",
+  "pub_date": "2026-09-23T04:51:52Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjRiRlVZV1lnQ2xUT2tiVElVTElzVmRhY2Q5Q0xDN3B2Z1JxNm93UUhpS1ZMSTh0b2NaMVk2OERYUitIK085TFROLysrVzdTOEtHMHpVUm05dVNqRmV6UVMvcGEwUmc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTM4NTI5CWZpbGU6VG9kbyBCb2FyZC5hcHAudGFyLmd6CnlDTzZDbE0veWtoZTFXTkczbklXc212dEt3SmZXNFlvK0locVVUWHRRTWtTZTRzdTVEd1Y5YjFlc2xHRnFlZms2enZxL2REemJha1NUL1U5YmdwMERRPT0K",
-      "url": "https://github.com/rlagksruf16/todo-board-releases/releases/download/v0.1.22/Todo.Board.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjRiRlVZV1lnQ3RZQkxGbjZtall1QlNFTnBWVEx6bVVzeVJJRGFQb2Zha1dsNzZ2WERFN0VkQWVDYU1UMTY0RkNKS0JoMGJyMVpzY2FieUJ6ek8wSHo3aW0wc1d4SndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTM5MTEyCWZpbGU6VG9kbyBCb2FyZC5hcHAudGFyLmd6CnorRlRTMG8vbjhoL1hUUTIzVVRHYlFiRkpMTCtzR2NWN1Nvb041ZUphYytSNjF5NXFaQ1JpR1ZXVHhlSjR0UHVNeWE0TVg0cmF6WTNvQ3k3QmFRa0N3PT0K",
+      "url": "https://github.com/rlagksruf16/todo-board-releases/releases/download/v0.1.23/Todo.Board.app.tar.gz"
     }
   }
 }
