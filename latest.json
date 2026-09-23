@@ -1,11 +1,11 @@
 {
-  "version": "0.1.18",
-  "notes": "⌘R로 Supabase에서 즉시 새로고침 (다른 기기 변경사항 바로 반영)",
-  "pub_date": "2026-09-23T02:12:12Z",
+  "version": "0.1.19",
+  "notes": "카테고리 내 todo 메모 미리보기를 1줄에서 2줄로 확장",
+  "pub_date": "2026-09-23T02:16:30Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjRiRlVZV1lnQ295cVlSb3BjSGJSMTh1c08wSGM1VUtjOFVLOWdMRExqWFdlbTg4RVpaN21ncGdqcDBzR2k1WCt4VVVwUlNmZzBYalZ5dG5ucmkxVnlCTGZKcURCRndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTI5NTMyCWZpbGU6VG9kbyBCb2FyZC5hcHAudGFyLmd6Ck9HRHZwYW96a0hHTC83NXMxOHNPdytPeFFsUE1lSTdhTDhOMUdYU1M5ejFOZWNyaGl3bUoxN3FLUkdEU0hNV3UvZXNaMnRKWnc1Z1VuU0lpZWlhT0JRPT0K",
-      "url": "https://github.com/rlagksruf16/todo-board-releases/releases/download/v0.1.18/Todo.Board.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjRiRlVZV1lnQ3VOWVovcXVONkpqN0o2T2JZc3pQcUdGL3RLWTlNLytLRkZNMUI0bFZUdTl2dXk3bEs0T0FJak1RNTB0UmdoT2FsSk9RRi81Z3l0QlBOd1pJdkFRbGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTI5NzkwCWZpbGU6VG9kbyBCb2FyZC5hcHAudGFyLmd6Cis1aDJxdk9qK3ViQ2pyd1dUVjNXTGF4cUdzUUN2REs2RVRjakwrSFRVd0hCZXhjUW4vUUI2MlpuMzM3NjRqaE9vNENNUFF5dmdiWFFGckVIWEFYckRRPT0K",
+      "url": "https://github.com/rlagksruf16/todo-board-releases/releases/download/v0.1.19/Todo.Board.app.tar.gz"
     }
   }
 }
