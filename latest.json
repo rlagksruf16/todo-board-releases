@@ -1,11 +1,11 @@
 {
-  "version": "0.1.16",
-  "notes": "모두 오늘로 보내기 수정: 각 카테고리의 미완료 목록 맨 아래에 정확히 위치하도록 position 재계산",
-  "pub_date": "2026-09-23T02:06:52Z",
+  "version": "0.1.17",
+  "notes": "메모 필드에 '- ' 입력 시 불릿 자동 변환 + Enter로 목록 이어쓰기",
+  "pub_date": "2026-09-23T02:09:32Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjRiRlVZV1lnQ2t2N3NESkhQRUlnQ3RRdVFaRzJtbDhhOWFaekdOZ1hhL2xFTzAyQWc3Y25sRHA3dEg3UmFtWEVHaExDSnFGQXdNaHVEc3VLYU5Nc2JCU2lWSzlndHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTI5MjEyCWZpbGU6VG9kbyBCb2FyZC5hcHAudGFyLmd6CnZxRkVjNEZ3d1ZjTDgyZkE0VXZjdGg4WW5mT09pRllPSWZOUmNzc2dwcjNVcnJSdGttSEpoY2pRdVNPTW8xR283YVBHWFArZzdlYyswL1ZFTlpqMkFnPT0K",
-      "url": "https://github.com/rlagksruf16/todo-board-releases/releases/download/v0.1.16/Todo.Board.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjRiRlVZV1lnQ2xMS0tnem94SjlkNVhFV2kzcFByTFJkNzRuTEZoNE5TMDQ2SEk3c2tCL1N4L2t3Q2ZFTzRjcTlLTFRKSmx1Y21maWJYakxPeFVjdGJ6dEZ3bFBlN1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTI5MzcyCWZpbGU6VG9kbyBCb2FyZC5hcHAudGFyLmd6Ckl1anozQ1ltcTc5Zk83cVBsRDdnNFVoanp2UFNPanpYQ1JUc282RGVPWVNtdTlZaFFWL2xHaGZEZ3pwMzNndXlzUGU1bEYwTG5hOGN1STkybGl3SkJnPT0K",
+      "url": "https://github.com/rlagksruf16/todo-board-releases/releases/download/v0.1.17/Todo.Board.app.tar.gz"
     }
   }
 }
