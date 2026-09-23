@@ -1,11 +1,11 @@
 {
-  "version": "0.1.15",
-  "notes": "날짜 이동/복사(날짜 바꾸기, 오늘/내일 하기, 또 하기 계열)로 도착한 todo는 항상 해당 카테고리의 미완료 목록 맨 아래에 위치",
-  "pub_date": "2026-09-20T14:50:11Z",
+  "version": "0.1.16",
+  "notes": "모두 오늘로 보내기 수정: 각 카테고리의 미완료 목록 맨 아래에 정확히 위치하도록 position 재계산",
+  "pub_date": "2026-09-23T02:06:52Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjRiRlVZV1lnQ29US3BVaEp2K0RKWlRFNXVMWkV4ZUM2UHFkS3Q3RDRVbUl4UmU3VmlUQm40MkVJUzdhY21ySi92ZXVlQzBibC96ditKS0MxNU5vaVlEVDVGTTVrc1EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTE1ODExCWZpbGU6VG9kbyBCb2FyZC5hcHAudGFyLmd6ClhGL3dYazhtL1ZyMUlrTTJGbEJuMHA1TDcyUDNCazlCeWZaN0Jub2U1TjIzWXRXc3BPbXcvU0hXeWlWVXJ5SHZiVWtaTzJnWUJGY0RpaDYvbWpJWkJ3PT0K",
-      "url": "https://github.com/rlagksruf16/todo-board-releases/releases/download/v0.1.15/Todo.Board.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjRiRlVZV1lnQ2t2N3NESkhQRUlnQ3RRdVFaRzJtbDhhOWFaekdOZ1hhL2xFTzAyQWc3Y25sRHA3dEg3UmFtWEVHaExDSnFGQXdNaHVEc3VLYU5Nc2JCU2lWSzlndHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTI5MjEyCWZpbGU6VG9kbyBCb2FyZC5hcHAudGFyLmd6CnZxRkVjNEZ3d1ZjTDgyZkE0VXZjdGg4WW5mT09pRllPSWZOUmNzc2dwcjNVcnJSdGttSEpoY2pRdVNPTW8xR283YVBHWFArZzdlYyswL1ZFTlpqMkFnPT0K",
+      "url": "https://github.com/rlagksruf16/todo-board-releases/releases/download/v0.1.16/Todo.Board.app.tar.gz"
     }
   }
 }
