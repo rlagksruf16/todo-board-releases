@@ -1,11 +1,11 @@
 {
-  "version": "0.1.23",
-  "notes": "todo 제목 글자 상단 잘림 수정, right-panel 가로 스크롤 제거",
-  "pub_date": "2026-09-23T04:51:52Z",
+  "version": "0.1.24",
+  "notes": "모바일(iOS) 지원을 위해 UI/상태/로직을 packages/app-ui 공유 패키지로 분리 (데스크탑 동작은 변경 없음)",
+  "pub_date": "2026-10-09T13:41:07Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjRiRlVZV1lnQ3RZQkxGbjZtall1QlNFTnBWVEx6bVVzeVJJRGFQb2Zha1dsNzZ2WERFN0VkQWVDYU1UMTY0RkNKS0JoMGJyMVpzY2FieUJ6ek8wSHo3aW0wc1d4SndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTM5MTEyCWZpbGU6VG9kbyBCb2FyZC5hcHAudGFyLmd6CnorRlRTMG8vbjhoL1hUUTIzVVRHYlFiRkpMTCtzR2NWN1Nvb041ZUphYytSNjF5NXFaQ1JpR1ZXVHhlSjR0UHVNeWE0TVg0cmF6WTNvQ3k3QmFRa0N3PT0K",
-      "url": "https://github.com/rlagksruf16/todo-board-releases/releases/download/v0.1.23/Todo.Board.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjRiRlVZV1lnQ3JnSWIwRWVycHNWRGQvK0RDc2t1WXNaMVBBWXErNDNEL1FSY2oxYzZJZlhXZ1MxUVV4WDFXTmxRSHJ6NnhGckFVcjZNZHNGdFJESS9MaGhxMUhIaVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTUzMjY3CWZpbGU6VG9kbyBCb2FyZC5hcHAudGFyLmd6CjZaQTBjd2NaRHFqWmx6ZXVPMUp6RXp1bkdOazk4TWdGbFFOK1JvR3Y0Q1d3OWdHUFNvbGQyQVhSLzVjWXhsdFUyaHNsSHlmMjdGRU1SekJzQVB2WEFnPT0K",
+      "url": "https://github.com/rlagksruf16/todo-board-releases/releases/download/v0.1.24/Todo.Board.app.tar.gz"
     }
   }
 }
