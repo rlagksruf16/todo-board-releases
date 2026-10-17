@@ -1,11 +1,11 @@
 {
-  "version": "0.1.24",
-  "notes": "모바일(iOS) 지원을 위해 UI/상태/로직을 packages/app-ui 공유 패키지로 분리 (데스크탑 동작은 변경 없음)",
-  "pub_date": "2026-10-09T13:41:07Z",
+  "version": "0.1.25",
+  "notes": "캘린더 주 시작일을 월요일에서 일요일로 변경 (루틴 반복 요일 인코딩은 영향 없음)",
+  "pub_date": "2026-10-17T14:38:45Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjRiRlVZV1lnQ3JnSWIwRWVycHNWRGQvK0RDc2t1WXNaMVBBWXErNDNEL1FSY2oxYzZJZlhXZ1MxUVV4WDFXTmxRSHJ6NnhGckFVcjZNZHNGdFJESS9MaGhxMUhIaVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTUzMjY3CWZpbGU6VG9kbyBCb2FyZC5hcHAudGFyLmd6CjZaQTBjd2NaRHFqWmx6ZXVPMUp6RXp1bkdOazk4TWdGbFFOK1JvR3Y0Q1d3OWdHUFNvbGQyQVhSLzVjWXhsdFUyaHNsSHlmMjdGRU1SekJzQVB2WEFnPT0K",
-      "url": "https://github.com/rlagksruf16/todo-board-releases/releases/download/v0.1.24/Todo.Board.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjRiRlVZV1lnQ3VESHJtZVpYbGxEUnQrRGtBaTBXbFFPWVZRSU9saGFLeEEzSExTayttTHpVTm1wNzZXZGRTYmZqYzVWcjJmOWF4T0ZKZHRyclpaWDJtdWpzRldhaFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjQ3OTI1CWZpbGU6VG9kbyBCb2FyZC5hcHAudGFyLmd6Ci9NaVBOY09OSVROVU54TTB3RWZmOUsvczl5Tm1teVZHMEZXQ1JyR0JQTCtwdit1V2pZRCtCekxyTE9rTlhkT1dXMnRlb1l0cVB2UkdYSzVLMkl3MER3PT0K",
+      "url": "https://github.com/rlagksruf16/todo-board-releases/releases/download/v0.1.25/Todo.Board.app.tar.gz"
     }
   }
 }
