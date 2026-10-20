@@ -1,11 +1,11 @@
 {
-  "version": "0.1.25",
-  "notes": "캘린더 주 시작일을 월요일에서 일요일로 변경 (루틴 반복 요일 인코딩은 영향 없음)",
-  "pub_date": "2026-10-17T14:38:45Z",
+  "version": "0.1.26",
+  "notes": "모두 오늘로 보내기: N번의 개별 update 대신 1번의 bulk upsert로 변경(부분 실패로 인한 동기화 불일치 방지)",
+  "pub_date": "2026-10-20T01:46:40Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjRiRlVZV1lnQ3VESHJtZVpYbGxEUnQrRGtBaTBXbFFPWVZRSU9saGFLeEEzSExTayttTHpVTm1wNzZXZGRTYmZqYzVWcjJmOWF4T0ZKZHRyclpaWDJtdWpzRldhaFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjQ3OTI1CWZpbGU6VG9kbyBCb2FyZC5hcHAudGFyLmd6Ci9NaVBOY09OSVROVU54TTB3RWZmOUsvczl5Tm1teVZHMEZXQ1JyR0JQTCtwdit1V2pZRCtCekxyTE9rTlhkT1dXMnRlb1l0cVB2UkdYSzVLMkl3MER3PT0K",
-      "url": "https://github.com/rlagksruf16/todo-board-releases/releases/download/v0.1.25/Todo.Board.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjRiRlVZV1lnQ3ZKNjNxaSttWlZYbi9Xb1NUNG03SnFnTXNHTTJpRGtEd1VEYWVUQjg0RmRWdkRWbkdzZTNBU1I0aXRFV3JiUk9RQ25kMmQ0dGZHYVBoWkxXQnJWM3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDYwODAwCWZpbGU6VG9kbyBCb2FyZC5hcHAudGFyLmd6CnM1MjdsWGdKYnREaGRZaHNibEJmWUxxaThpM21Bd0RGNGF1U1R3VllFYVpuNDBYS3oyQVVUNWlVOHNlTDZHZncwMHY3L2lXN0ZHeFVVdHhIdlBaUERRPT0K",
+      "url": "https://github.com/rlagksruf16/todo-board-releases/releases/download/v0.1.26/Todo.Board.app.tar.gz"
     }
   }
 }
