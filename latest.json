@@ -1,11 +1,11 @@
 {
-  "version": "0.1.26",
-  "notes": "모두 오늘로 보내기: N번의 개별 update 대신 1번의 bulk upsert로 변경(부분 실패로 인한 동기화 불일치 방지)",
-  "pub_date": "2026-10-20T01:46:40Z",
+  "version": "0.1.27",
+  "notes": "루틴 대시보드 추가 — 카테고리별 완료율/평균 개수/이월 횟수/연속 달성 스트릭",
+  "pub_date": "2026-10-28T15:21:15Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjRiRlVZV1lnQ3ZKNjNxaSttWlZYbi9Xb1NUNG03SnFnTXNHTTJpRGtEd1VEYWVUQjg0RmRWdkRWbkdzZTNBU1I0aXRFV3JiUk9RQ25kMmQ0dGZHYVBoWkxXQnJWM3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDYwODAwCWZpbGU6VG9kbyBCb2FyZC5hcHAudGFyLmd6CnM1MjdsWGdKYnREaGRZaHNibEJmWUxxaThpM21Bd0RGNGF1U1R3VllFYVpuNDBYS3oyQVVUNWlVOHNlTDZHZncwMHY3L2lXN0ZHeFVVdHhIdlBaUERRPT0K",
-      "url": "https://github.com/rlagksruf16/todo-board-releases/releases/download/v0.1.26/Todo.Board.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjRiRlVZV1lnQ3VSdWNFTWhSbzZVRHFOY085cllDOG1oU0ozWlJOd0JNNlpYRXVnZXBxVnhxVUhLZWFaQVhzRHl1YVRwQmZhR0wxRGxLYkk0TG1aa0hVMDZFcTI1UndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjAwODc1CWZpbGU6VG9kbyBCb2FyZC5hcHAudGFyLmd6CmtYTDhqbzdvdHpsRlRyZDNxRDJwampkeTdBazMyVHNnYVcyM010SnF2YzJJbDJENkRZY291eUd4RS9CK003bmJQOUpiN1lWaFRPcGI4WjdSNXpUWEF3PT0K",
+      "url": "https://github.com/rlagksruf16/todo-board-releases/releases/download/v0.1.27/Todo.Board.app.tar.gz"
     }
   }
 }
