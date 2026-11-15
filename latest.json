@@ -1,11 +1,11 @@
 {
-  "version": "0.1.28",
-  "notes": "'모두 오늘로 보내기'/카테고리 삭제 확인 모달 수정 (window.confirm 미작동 문제)",
-  "pub_date": "2026-11-15T07:43:50Z",
+  "version": "0.1.29",
+  "notes": "Todo 리마인더 실제 발송(텔레그램) 연결",
+  "pub_date": "2026-11-15T10:29:39Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjRiRlVZV1lnQ2hIRk9QMGpoVUw1UHVTVFZwY1ZrOXBCbFZPb1pzQlY4YVBidXoyV1NwRTh6YXBlSjFFMlYvVVNRQ0NheGtxL1lpeE1TMjdtYjdiZmJrbWFKVTBieXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzI4NjMwCWZpbGU6VG9kbyBCb2FyZC5hcHAudGFyLmd6ClhCeW9uVTcvT1FPOGJGS2JZbnFRdXB5TzhVVG4reWNFelZjK0Fnclg1K2FRdGpqcTg4bHRKb2xGZ2gxNE15T0FvMWFCT1ptVGRudVdxVDhNckZYWUJnPT0K",
-      "url": "https://github.com/rlagksruf16/todo-board-releases/releases/download/v0.1.28/Todo.Board.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjRiRlVZV1lnQ20xMzFIeTlpUDE4Nlh4eS8waWZWOTlzYlQ0VGJjSUhnUERic0hOWXdCMFNLK3dabWJSUkRnRTRxQll2c2RxNnVzYW54cHlZZjBGOXBtRTF5eFA2RUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzM4NTc5CWZpbGU6VG9kbyBCb2FyZC5hcHAudGFyLmd6CkNnazM3QjlPUXgvUG5adGcvbmJydWhGUlU5eDhvZmFBNmVqbEJkS2RyWjg5dlByVllIYStmQXdSQy9IdnA5eFovdWVQSk5SWnVDSDRpOG1wYWlVZkJ3PT0K",
+      "url": "https://github.com/rlagksruf16/todo-board-releases/releases/download/v0.1.29/Todo.Board.app.tar.gz"
     }
   }
 }
