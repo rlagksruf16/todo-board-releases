@@ -1,11 +1,11 @@
 {
-  "version": "0.1.30",
-  "notes": "할 일 행에 알림 시각 표기 추가",
-  "pub_date": "2026-11-15T12:47:10Z",
+  "version": "0.1.31",
+  "notes": "시간 알림 저장 안 되던 문제 수정 (날짜/시간 입력 분리, 기본값 자동 채움)",
+  "pub_date": "2026-11-15T13:14:41Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjRiRlVZV1lnQ2dmSFJmaE5jS2MxVCtpWDFrTW83UzFKdi9WZlJUVUR2WDNnQVZqOVpvUkg4Q2FZTUdRbW9yc0RUV0tlV2U4bnZpYlVhRk5jZURrSHJqRy9XcEoxelFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzQ2ODMwCWZpbGU6VG9kbyBCb2FyZC5hcHAudGFyLmd6CkFIU21aOUwxL09HbzdGTk4xNHFnRC9uOTYrNisyZEJJRzdiWldYMzVwSUp3SDZVTEY0SmVNdS9md3dFMHpuR1pnTW1nL202UkFUSWUvUDI3UlV2U0NRPT0K",
-      "url": "https://github.com/rlagksruf16/todo-board-releases/releases/download/v0.1.30/Todo.Board.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjRiRlVZV1lnQ3J6UjQyekJYWUFtM0RXQXIrb1VzSjlsUC9LTHJHUW1JZ2FWTE12R0toYVVxMEcrRUdwZkVTazBtZjVDMGJzOXJJWS9Hd2wyN21MVEJBMHhwaUYxZUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzQ4NDgwCWZpbGU6VG9kbyBCb2FyZC5hcHAudGFyLmd6CjVtUFdmNXRZVUlYM2NJWEJ5L1lraGtUcXRneEVCMm12a2FDMVdGNmxBaVNsUkJkNmFxS0xESEdNT1RCNkR5Q0J2djgrNTJsZ2tuL1gvQTZ3K25lQkFRPT0K",
+      "url": "https://github.com/rlagksruf16/todo-board-releases/releases/download/v0.1.31/Todo.Board.app.tar.gz"
     }
   }
 }
