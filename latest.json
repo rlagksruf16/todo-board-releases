@@ -1,11 +1,11 @@
 {
-  "version": "0.1.27",
-  "notes": "루틴 대시보드 추가 — 카테고리별 완료율/평균 개수/이월 횟수/연속 달성 스트릭",
-  "pub_date": "2026-10-28T15:21:15Z",
+  "version": "0.1.28",
+  "notes": "'모두 오늘로 보내기'/카테고리 삭제 확인 모달 수정 (window.confirm 미작동 문제)",
+  "pub_date": "2026-11-15T07:43:50Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjRiRlVZV1lnQ3VSdWNFTWhSbzZVRHFOY085cllDOG1oU0ozWlJOd0JNNlpYRXVnZXBxVnhxVUhLZWFaQVhzRHl1YVRwQmZhR0wxRGxLYkk0TG1aa0hVMDZFcTI1UndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjAwODc1CWZpbGU6VG9kbyBCb2FyZC5hcHAudGFyLmd6CmtYTDhqbzdvdHpsRlRyZDNxRDJwampkeTdBazMyVHNnYVcyM010SnF2YzJJbDJENkRZY291eUd4RS9CK003bmJQOUpiN1lWaFRPcGI4WjdSNXpUWEF3PT0K",
-      "url": "https://github.com/rlagksruf16/todo-board-releases/releases/download/v0.1.27/Todo.Board.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjRiRlVZV1lnQ2hIRk9QMGpoVUw1UHVTVFZwY1ZrOXBCbFZPb1pzQlY4YVBidXoyV1NwRTh6YXBlSjFFMlYvVVNRQ0NheGtxL1lpeE1TMjdtYjdiZmJrbWFKVTBieXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzI4NjMwCWZpbGU6VG9kbyBCb2FyZC5hcHAudGFyLmd6ClhCeW9uVTcvT1FPOGJGS2JZbnFRdXB5TzhVVG4reWNFelZjK0Fnclg1K2FRdGpqcTg4bHRKb2xGZ2gxNE15T0FvMWFCT1ptVGRudVdxVDhNckZYWUJnPT0K",
+      "url": "https://github.com/rlagksruf16/todo-board-releases/releases/download/v0.1.28/Todo.Board.app.tar.gz"
     }
   }
 }
