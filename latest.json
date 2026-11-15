@@ -1,11 +1,11 @@
 {
-  "version": "0.1.31",
-  "notes": "시간 알림 저장 안 되던 문제 수정 (날짜/시간 입력 분리, 기본값 자동 채움)",
-  "pub_date": "2026-11-15T13:14:41Z",
+  "version": "0.1.32",
+  "notes": "실행 중에도 30분마다·창 활성화 시 새 버전 확인 후 팝업 안내",
+  "pub_date": "2026-11-15T13:21:20Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjRiRlVZV1lnQ3J6UjQyekJYWUFtM0RXQXIrb1VzSjlsUC9LTHJHUW1JZ2FWTE12R0toYVVxMEcrRUdwZkVTazBtZjVDMGJzOXJJWS9Hd2wyN21MVEJBMHhwaUYxZUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzQ4NDgwCWZpbGU6VG9kbyBCb2FyZC5hcHAudGFyLmd6CjVtUFdmNXRZVUlYM2NJWEJ5L1lraGtUcXRneEVCMm12a2FDMVdGNmxBaVNsUkJkNmFxS0xESEdNT1RCNkR5Q0J2djgrNTJsZ2tuL1gvQTZ3K25lQkFRPT0K",
-      "url": "https://github.com/rlagksruf16/todo-board-releases/releases/download/v0.1.31/Todo.Board.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQjRiRlVZV1lnQ3ZSbGVZRmJreEViU3kxeFhxdk1qemsySjQ3NDNpNDNGZGhid1pVTjdudk9ReGVhNVNjQ0JZK2d5bGZ3OTQ5bGxGZzBHSjRwbUxGaWQxaitsQ0dqSVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzQ4ODgwCWZpbGU6VG9kbyBCb2FyZC5hcHAudGFyLmd6ClI3eXZqRHk2eWRhRmtIZUhoRzFxNy94YWUwL2FNUUtuYVR1eFEwNzZOdkdBV3FsNDFqV0dHUXpOaWdaS2p1My84WHpnTkxJbkZsb3k0QUxIM1gyc0JBPT0K",
+      "url": "https://github.com/rlagksruf16/todo-board-releases/releases/download/v0.1.32/Todo.Board.app.tar.gz"
     }
   }
 }
